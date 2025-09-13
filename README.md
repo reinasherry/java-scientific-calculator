@@ -1,6 +1,6 @@
 # Scientific Calculator 🧮
 
-A Java-based scientific calculator with features including history tracking, memory functions, and a colorful terminal interface.
+A Java-based calculator made with VSCode with features including history tracking, memory functions, and a colorful terminal interface.
 
 ## Features
 - ✅ Basic arithmetic operations (+, -, *, /)
@@ -15,3 +15,4 @@ A Java-based scientific calculator with features including history tracking, mem
 ```bash
 javac calculator.java
 java calculator
+
